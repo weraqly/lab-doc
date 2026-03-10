@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="jicdohpQ0vEdJYZAsiyp">
+    <mxGraphModel dx="1135" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="actor1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Адміністратор&#xa;платформи" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="actor2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Представник&#xa;мережі готелів" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="actor3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="API мережі&#xa;готелів" vertex="1">
+          <mxGeometry height="60" width="30" x="770" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="system" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=28;" value="" vertex="1">
+          <mxGeometry height="620" width="520" x="180" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uc1" parent="system" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;" value="Створити запит на&#xa;додавання мережі готелів" vertex="1">
+          <mxGeometry height="60" width="220" x="130" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uc2" parent="system" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;" value="Ввести основні дані&#xa;про мережу готелів" vertex="1">
+          <mxGeometry height="60" width="220" x="130" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uc3" parent="system" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;" value="Надати API credentials&#xa;та параметри інтеграції" vertex="1">
+          <mxGeometry height="60" width="220" x="130" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uc4" parent="system" style="ellipse;whiteSpace=wrap;html=1;" value="Перевірити дані мережі&#xa;та формат інтеграції" vertex="1">
+          <mxGeometry height="60" width="220" x="130" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="uc5" parent="system" style="ellipse;whiteSpace=wrap;html=1;" value="Виконати API інтеграцію&#xa;з мережею готелів" vertex="1">
+          <mxGeometry height="60" width="220" x="130" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="uc6" parent="system" style="ellipse;whiteSpace=wrap;html=1;" value="Імпортувати список&#xa;готелів і номерів" vertex="1">
+          <mxGeometry height="60" width="220" x="130" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="uc7" parent="system" style="ellipse;whiteSpace=wrap;html=1;" value="Підтвердити успішне&#xa;підключення мережі" vertex="1">
+          <mxGeometry height="60" width="220" x="130" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="uc8" parent="system" style="ellipse;whiteSpace=wrap;html=1;" value="Зберегти мережу готелів&#xa;в платформі" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uc9" parent="system" style="ellipse;whiteSpace=wrap;html=1;" value="Синхронізувати&#xa;ціни і доступність" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="edge9" edge="1" parent="system" source="uc1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uc2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge10" edge="1" parent="system" source="uc2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uc3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge11" edge="1" parent="system" source="uc3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uc4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge12" edge="1" parent="system" source="uc4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uc5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge13" edge="1" parent="system" source="uc5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uc6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge14" edge="1" parent="system" source="uc6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uc7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge15" edge="1" parent="system" source="uc3" style="dashed=1;endArrow=open;html=1;" target="uc8" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge16" edge="1" parent="system" source="uc5" style="dashed=1;endArrow=open;html=1;" target="uc9" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge1" edge="1" parent="1" source="actor1" style="edgeStyle=none;html=1;endArrow=none;" target="uc1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge2" edge="1" parent="1" source="actor1" style="edgeStyle=none;html=1;endArrow=none;" target="uc4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge3" edge="1" parent="1" source="actor1" style="edgeStyle=none;html=1;endArrow=none;" target="uc7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge4" edge="1" parent="1" source="actor2" style="edgeStyle=none;html=1;endArrow=none;" target="uc2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge5" edge="1" parent="1" source="actor2" style="edgeStyle=none;html=1;endArrow=none;" target="uc3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge6" edge="1" parent="1" source="actor2" style="edgeStyle=none;html=1;endArrow=none;" target="uc5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge7" edge="1" parent="1" source="actor3" style="edgeStyle=none;html=1;endArrow=none;" target="uc5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge8" edge="1" parent="1" source="actor3" style="edgeStyle=none;html=1;endArrow=none;" target="uc6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

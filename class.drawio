@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="jicdohpQ0vEdJYZAsiyp">
+    <mxGraphModel dx="1946" dy="1697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c1" parent="1" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=6;fontSize=13;" value="&lt;b&gt;HotelChain&lt;/b&gt;&#xa;-----------------------&#xa;- chainId: int&#xa;- name: String&#xa;- brand: String&#xa;- contactEmail: String&#xa;- contactPhone: String&#xa;-----------------------&#xa;+ addHotel()&#xa;+ updateChainInfo()" vertex="1">
+          <mxGeometry height="170" width="240" x="70" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" parent="1" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=6;fontSize=13;" value="&lt;b&gt;Hotel&lt;/b&gt;&#xa;-----------------------&#xa;- hotelId: int&#xa;- name: String&#xa;- description: String&#xa;- category: int&#xa;- checkInTime: Time&#xa;- checkOutTime: Time&#xa;-----------------------&#xa;+ getAvailableRooms()&#xa;+ updateDetails()" vertex="1">
+          <mxGeometry height="190" width="240" x="370" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" parent="1" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=6;fontSize=13;" value="&lt;b&gt;Location&lt;/b&gt;&#xa;-----------------------&#xa;- locationId: int&#xa;- country: String&#xa;- city: String&#xa;- address: String&#xa;- postalCode: String&#xa;- latitude: double&#xa;- longitude: double&#xa;-----------------------&#xa;+ getFullAddress()" vertex="1">
+          <mxGeometry height="200" width="240" x="680" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" parent="1" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=6;fontSize=13;" value="&lt;b&gt;Room&lt;/b&gt;&#xa;-----------------------&#xa;- roomId: int&#xa;- roomNumber: String&#xa;- type: String&#xa;- capacity: int&#xa;- pricePerNight: Decimal&#xa;- status: String&#xa;-----------------------&#xa;+ markAvailable()&#xa;+ markUnavailable()" vertex="1">
+          <mxGeometry height="190" width="240" x="370" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="c5" parent="1" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=6;fontSize=13;" value="&lt;b&gt;RoomAvailability&lt;/b&gt;&#xa;-----------------------&#xa;- availabilityId: int&#xa;- dateFrom: Date&#xa;- dateTo: Date&#xa;- isAvailable: Boolean&#xa;- availableUnits: int&#xa;-----------------------&#xa;+ checkAvailability()&#xa;+ updateAvailability()" vertex="1">
+          <mxGeometry height="180" width="250" x="680" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="c6" parent="1" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=6;fontSize=13;" value="&lt;b&gt;Booking&lt;/b&gt;&#xa;-----------------------&#xa;- bookingId: int&#xa;- checkInDate: Date&#xa;- checkOutDate: Date&#xa;- guestsCount: int&#xa;- totalPrice: Decimal&#xa;- bookingStatus: String&#xa;-----------------------&#xa;+ calculatePrice()&#xa;+ confirmBooking()&#xa;+ cancelBooking()" vertex="1">
+          <mxGeometry height="210" width="250" x="980" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="c7" parent="1" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=6;fontSize=13;" value="&lt;b&gt;Customer&lt;/b&gt;&#xa;-----------------------&#xa;- customerId: int&#xa;- fullName: String&#xa;- email: String&#xa;- phone: String&#xa;- nationality: String&#xa;-----------------------&#xa;+ createBooking()&#xa;+ leaveReview()" vertex="1">
+          <mxGeometry height="180" width="240" x="980" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="c8" parent="1" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=6;fontSize=13;" value="&lt;b&gt;Review&lt;/b&gt;&#xa;-----------------------&#xa;- reviewId: int&#xa;- comment: String&#xa;- createdAt: Date&#xa;- status: String&#xa;-----------------------&#xa;+ publishReview()&#xa;+ editReview()" vertex="1">
+          <mxGeometry height="170" width="230" x="980" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="c9" parent="1" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=6;fontSize=13;" value="&lt;b&gt;Rating&lt;/b&gt;&#xa;-----------------------&#xa;- ratingId: int&#xa;- cleanliness: int&#xa;- comfort: int&#xa;- locationScore: int&#xa;- staff: int&#xa;- valueForMoney: int&#xa;- overallScore: double&#xa;-----------------------&#xa;+ calculateOverall()" vertex="1">
+          <mxGeometry height="210" width="240" x="690" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="c10" parent="1" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=6;fontSize=13;" value="&lt;b&gt;Amenity&lt;/b&gt;&#xa;-----------------------&#xa;- amenityId: int&#xa;- name: String&#xa;- category: String&#xa;- description: String&#xa;-----------------------&#xa;+ updateAmenity()" vertex="1">
+          <mxGeometry height="170" width="230" x="370" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="c11" parent="1" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingTop=6;fontSize=13;" value="&lt;b&gt;Image&lt;/b&gt;&#xa;-----------------------&#xa;- imageId: int&#xa;- url: String&#xa;- caption: String&#xa;- type: String&#xa;-----------------------&#xa;+ uploadImage()" vertex="1">
+          <mxGeometry height="160" width="220" x="70" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="c1" style="endArrow=diamondThin;endFill=1;html=1;rounded=0;" target="c2" value="1 .. *">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="c2" style="endArrow=diamondThin;endFill=1;html=1;rounded=0;" target="c3" value="1 .. 1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="c2" style="endArrow=diamondThin;endFill=1;html=1;rounded=0;" target="c4" value="1 .. *">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="c4" style="endArrow=diamondThin;endFill=1;html=1;rounded=0;" target="c5" value="1 .. *">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="c6" style="endArrow=open;html=1;rounded=0;" target="c4" value="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="c7" style="endArrow=open;html=1;rounded=0;" target="c6" value="1 .. *">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="c7" style="endArrow=open;html=1;rounded=0;" target="c8" value="1 .. *">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="c8" style="endArrow=open;html=1;rounded=0;" target="c2" value="about 1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="c8" style="endArrow=diamondThin;endFill=1;html=1;rounded=0;" target="c9" value="1 .. 1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="c2" style="endArrow=open;html=1;rounded=0;" target="c10" value="0 .. *">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11" edge="1" parent="1" source="c2" style="endArrow=diamondThin;endFill=1;html=1;rounded=0;" target="c11" value="0 .. *">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
