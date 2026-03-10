@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="jicdohpQ0vEdJYZAsiyp">
+    <mxGraphModel dx="1513" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffffff;" value="Користувач" vertex="1">
+          <mxGeometry height="700" width="110" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffffff;" value="Booking.com&#xa;(UI &amp; Logic)" vertex="1">
+          <mxGeometry height="700" width="120" x="210" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffffff;" value="Booking Service" vertex="1">
+          <mxGeometry height="700" width="120" x="390" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffffff;" value="Hotel DB" vertex="1">
+          <mxGeometry height="700" width="100" x="570" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffffff;" value="Payment Provider" vertex="1">
+          <mxGeometry height="700" width="120" x="730" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffffff;" value="Email Service" vertex="1">
+          <mxGeometry height="700" width="110" x="910" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1" edge="1" parent="1" source="L1" style="html=1;verticalAlign=bottom;endArrow=block;" target="L2" value="Обрати номер">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="110" />
+            </Array>
+            <mxPoint x="95" y="110" as="sourcePoint" />
+            <mxPoint x="270" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2" edge="1" parent="1" source="L2" style="html=1;verticalAlign=bottom;endArrow=block;" target="L3" value="POST /reservation/create">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="150" />
+            </Array>
+            <mxPoint x="270" y="150" as="sourcePoint" />
+            <mxPoint x="450" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M3" edge="1" parent="1" source="L3" style="html=1;verticalAlign=bottom;endArrow=block;" target="L4" value="Перевірити доступність номера">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="190" />
+            </Array>
+            <mxPoint x="450" y="190" as="sourcePoint" />
+            <mxPoint x="620" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M4" edge="1" parent="1" source="L4" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;" target="L3" value="Номер доступний">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="230" />
+            </Array>
+            <mxPoint x="620" y="230" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5" edge="1" parent="1" source="L3" style="html=1;verticalAlign=bottom;endArrow=block;" target="L4" value="Створити запис бронювання">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="270" />
+            </Array>
+            <mxPoint x="450" y="270" as="sourcePoint" />
+            <mxPoint x="620" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6" edge="1" parent="1" source="L3" style="html=1;verticalAlign=bottom;endArrow=block;" target="L5" value="POST /payment/hold">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="320" />
+            </Array>
+            <mxPoint x="450" y="320" as="sourcePoint" />
+            <mxPoint x="790" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M7" edge="1" parent="1" source="L5" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;" target="L3" value="Кошти заблоковано">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="360" />
+            </Array>
+            <mxPoint x="790" y="360" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M8" edge="1" parent="1" source="L3" style="html=1;verticalAlign=bottom;endArrow=block;" target="L4" value="UPDATE Room(status=&#39;reserved&#39;)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="400" />
+            </Array>
+            <mxPoint x="450" y="400" as="sourcePoint" />
+            <mxPoint x="620" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M9" edge="1" parent="1" source="L3" style="html=1;verticalAlign=bottom;endArrow=block;" target="L6" value="Надіслати email-підтвердження">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="450" />
+            </Array>
+            <mxPoint x="450" y="450" as="sourcePoint" />
+            <mxPoint x="965" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M10" edge="1" parent="1" source="L6" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;" target="L3" value="Email sent">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="490" />
+            </Array>
+            <mxPoint x="965" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M11" edge="1" parent="1" source="L3" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;" target="L2" value="Бронювання підтверджено">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="540" />
+            </Array>
+            <mxPoint x="450" y="540" as="sourcePoint" />
+            <mxPoint x="270" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M12" edge="1" parent="1" source="L2" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;" target="L1" value="Показати номер бронювання">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="580" />
+            </Array>
+            <mxPoint x="270" y="580" as="sourcePoint" />
+            <mxPoint x="95" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=60;height=30;fillColor=#ffffff;" value="alt" vertex="1">
+          <mxGeometry height="520" width="640" x="360" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="T1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" value="[Номер доступний і блокування коштів успішне]" vertex="1">
+          <mxGeometry height="30" width="280" x="440" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
