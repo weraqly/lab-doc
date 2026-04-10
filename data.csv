@@ -1,0 +1,1051 @@
+product_name,product_category,price,stock_quantity,supplier_name,supplier_email,supplier_phone,supplier_country
+Смартфон 1,Одяг,3940.39,839,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Ноутбук 2,Косметика,1832.31,456,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Футболка 3,Косметика,4871.62,106,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Джинси 4,Іграшки,4443.94,63,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Кавоварка 5,Побутова хімія,1359.81,827,FastDelivery,supplier4@trade.com,+380820334794,США
+Навушники 6,Косметика,1842.73,504,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Книга «7»,Одяг,968.57,23,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Крісло 8,Продукти харчування,190.05,189,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Велосипед 9,Авто,3562.92,804,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Помада 10,Книги,2737.41,937,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Шампунь 11,Книги,3682.01,258,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Чай 12,Іграшки,4516.27,662,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Кросівки 13,Одяг,80.54,699,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Планшет 14,Одяг,3429.09,319,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Монітор 15,Книги,841.4,406,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Клавіатура 16,Продукти харчування,1880.15,365,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Мишка 17,Книги,2624.66,385,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Рюкзак 18,Продукти харчування,310.01,478,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Куртка 19,Косметика,4592.54,609,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Холодильник 20,Продукти харчування,992.11,368,XiNetwork,supplier19@trade.com,+380966001638,США
+Смартфон 21,Косметика,4374.02,946,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Ноутбук 22,Меблі,566.71,127,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Футболка 23,Меблі,799.41,705,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Джинси 24,Спорт та відпочинок,2682.34,225,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Кавоварка 25,Одяг,1666.54,116,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Навушники 26,Косметика,129.2,700,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Книга «27»,Іграшки,431.05,864,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Крісло 28,Продукти харчування,3539.97,190,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Велосипед 29,Електроніка,4455.96,670,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Помада 30,Авто,3395.39,451,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Шампунь 31,Іграшки,3967.17,798,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Чай 32,Косметика,3358.54,251,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Кросівки 33,Одяг,3960.9,720,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Планшет 34,Одяг,59.55,991,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Монітор 35,Іграшки,128.82,145,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Клавіатура 36,Іграшки,1344.59,572,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Мишка 37,Електроніка,2776.44,236,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Рюкзак 38,Меблі,3387.2,667,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Куртка 39,Книги,657.98,692,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Холодильник 40,Одяг,882.73,667,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Смартфон 41,Продукти харчування,3753.47,366,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Ноутбук 42,Спорт та відпочинок,2374.07,898,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Футболка 43,Іграшки,1118.88,433,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Джинси 44,Книги,312.73,85,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Кавоварка 45,Косметика,3553.35,743,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Навушники 46,Одяг,785.7,379,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Книга «47»,Побутова хімія,3959.81,593,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Крісло 48,Авто,3609.17,706,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Велосипед 49,Спорт та відпочинок,3102.5,48,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Помада 50,Побутова хімія,353.32,484,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Шампунь 51,Меблі,4340.86,213,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Чай 52,Книги,2949.03,71,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Кросівки 53,Продукти харчування,4070.96,543,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Планшет 54,Продукти харчування,4457.49,508,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Монітор 55,Книги,2619.8,370,FastDelivery,supplier4@trade.com,+380820334794,США
+Клавіатура 56,Меблі,4608.95,199,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Мишка 57,Авто,3592.24,57,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Рюкзак 58,Побутова хімія,4342.45,308,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Куртка 59,Книги,166.73,309,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Холодильник 60,Побутова хімія,521.92,986,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Смартфон 61,Продукти харчування,671.25,146,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Ноутбук 62,Іграшки,504.36,111,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Футболка 63,Книги,254.25,834,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Джинси 64,Одяг,4041.4,370,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Кавоварка 65,Спорт та відпочинок,1920.89,794,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Навушники 66,Побутова хімія,3243.46,546,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Книга «67»,Побутова хімія,2443.16,495,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Крісло 68,Авто,1742.32,905,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Велосипед 69,Продукти харчування,1262.1,52,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Помада 70,Одяг,583.32,617,XiNetwork,supplier19@trade.com,+380966001638,США
+Шампунь 71,Авто,3510.1,549,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Чай 72,Косметика,3070.51,269,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Кросівки 73,Книги,1577.92,911,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Планшет 74,Книги,1409.82,738,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Монітор 75,Книги,4569.45,811,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Клавіатура 76,Косметика,1847.46,646,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Мишка 77,Авто,886.61,80,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Рюкзак 78,Книги,4639.33,894,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Куртка 79,Одяг,2305.99,998,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Холодильник 80,Іграшки,2079.49,155,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Смартфон 81,Книги,1438.63,390,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Ноутбук 82,Одяг,701.22,746,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Футболка 83,Іграшки,746.82,506,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Джинси 84,Продукти харчування,2602.73,788,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Кавоварка 85,Електроніка,3649.33,736,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Навушники 86,Електроніка,4681.82,244,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Книга «87»,Одяг,2498.12,554,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Крісло 88,Меблі,3227.12,86,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Велосипед 89,Авто,2183.49,322,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Помада 90,Косметика,4133.94,896,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Шампунь 91,Косметика,2572.77,49,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Чай 92,Косметика,1648.66,961,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Кросівки 93,Спорт та відпочинок,4993.01,395,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Планшет 94,Меблі,3506.81,851,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Монітор 95,Спорт та відпочинок,4612.99,482,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Клавіатура 96,Меблі,1079.32,663,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Мишка 97,Меблі,2664.69,894,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Рюкзак 98,Косметика,3322.01,631,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Куртка 99,Меблі,4658.05,402,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Холодильник 100,Меблі,4234.52,977,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Смартфон 101,Авто,2748.41,990,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Ноутбук 102,Косметика,704.17,12,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Футболка 103,Одяг,1381.01,998,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Джинси 104,Книги,728.72,489,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Кавоварка 105,Побутова хімія,3184.59,261,FastDelivery,supplier4@trade.com,+380820334794,США
+Навушники 106,Книги,2865.38,828,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Книга «107»,Косметика,4271.68,56,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Крісло 108,Електроніка,2650.05,416,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Велосипед 109,Електроніка,4191.29,985,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Помада 110,Побутова хімія,2852.58,241,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Шампунь 111,Косметика,3786.71,244,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Чай 112,Іграшки,3378.14,800,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Кросівки 113,Електроніка,504.76,689,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Планшет 114,Одяг,4130.86,313,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Монітор 115,Авто,4770.28,301,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Клавіатура 116,Побутова хімія,1038.86,977,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Мишка 117,Електроніка,1734.14,168,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Рюкзак 118,Косметика,4245.82,527,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Куртка 119,Косметика,4735.64,686,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Холодильник 120,Спорт та відпочинок,3183.75,692,XiNetwork,supplier19@trade.com,+380966001638,США
+Смартфон 121,Авто,1295.27,129,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Ноутбук 122,Меблі,2774.72,53,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Футболка 123,Меблі,4711.99,40,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Джинси 124,Авто,4274.76,723,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Кавоварка 125,Спорт та відпочинок,3638.32,959,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Навушники 126,Побутова хімія,339.68,850,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Книга «127»,Книги,1349.42,987,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Крісло 128,Одяг,4557.5,250,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Велосипед 129,Побутова хімія,3542.84,410,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Помада 130,Продукти харчування,1349.61,991,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Шампунь 131,Побутова хімія,2200.82,401,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Чай 132,Іграшки,146.03,789,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Кросівки 133,Косметика,221.44,93,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Планшет 134,Книги,1556.27,859,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Монітор 135,Авто,4503.72,254,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Клавіатура 136,Іграшки,4586.04,878,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Мишка 137,Одяг,4612.55,763,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Рюкзак 138,Книги,3368.76,399,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Куртка 139,Косметика,2764.81,593,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Холодильник 140,Спорт та відпочинок,4727.97,470,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Смартфон 141,Одяг,3302.26,101,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Ноутбук 142,Одяг,4687.33,556,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Футболка 143,Меблі,31.33,238,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Джинси 144,Меблі,4890.39,58,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Кавоварка 145,Книги,2595.31,633,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Навушники 146,Косметика,2375.02,671,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Книга «147»,Продукти харчування,258.85,16,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Крісло 148,Меблі,2714.63,987,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Велосипед 149,Авто,4057.98,839,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Помада 150,Продукти харчування,4716.74,568,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Шампунь 151,Спорт та відпочинок,4127.49,922,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Чай 152,Книги,4378.85,98,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Кросівки 153,Електроніка,611.2,715,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Планшет 154,Спорт та відпочинок,4338.15,1,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Монітор 155,Одяг,4966.0,607,FastDelivery,supplier4@trade.com,+380820334794,США
+Клавіатура 156,Іграшки,1883.42,743,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Мишка 157,Спорт та відпочинок,1025.34,105,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Рюкзак 158,Спорт та відпочинок,355.04,68,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Куртка 159,Побутова хімія,190.28,178,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Холодильник 160,Книги,4893.84,985,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Смартфон 161,Побутова хімія,904.74,110,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Ноутбук 162,Меблі,1488.8,83,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Футболка 163,Меблі,3463.76,295,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Джинси 164,Електроніка,3227.1,697,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Кавоварка 165,Книги,4263.85,850,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Навушники 166,Авто,2570.88,50,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Книга «167»,Спорт та відпочинок,3399.25,628,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Крісло 168,Авто,3263.89,525,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Велосипед 169,Авто,3543.8,288,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Помада 170,Авто,3767.05,217,XiNetwork,supplier19@trade.com,+380966001638,США
+Шампунь 171,Книги,21.55,747,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Чай 172,Одяг,3099.89,317,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Кросівки 173,Одяг,2992.56,834,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Планшет 174,Продукти харчування,4338.3,218,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Монітор 175,Електроніка,4192.82,937,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Клавіатура 176,Косметика,3161.02,637,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Мишка 177,Одяг,1616.86,173,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Рюкзак 178,Електроніка,3962.0,301,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Куртка 179,Продукти харчування,2214.35,447,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Холодильник 180,Книги,4200.31,318,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Смартфон 181,Меблі,3776.73,696,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Ноутбук 182,Електроніка,3542.45,663,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Футболка 183,Побутова хімія,3263.84,959,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Джинси 184,Косметика,4657.9,249,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Кавоварка 185,Іграшки,1431.32,719,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Навушники 186,Авто,480.69,492,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Книга «187»,Одяг,708.24,584,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Крісло 188,Одяг,1058.38,872,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Велосипед 189,Одяг,4189.07,301,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Помада 190,Косметика,4163.07,923,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Шампунь 191,Побутова хімія,4744.06,362,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Чай 192,Продукти харчування,499.47,118,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Кросівки 193,Авто,1282.35,400,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Планшет 194,Іграшки,2238.55,897,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Монітор 195,Авто,3589.36,94,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Клавіатура 196,Меблі,4743.08,781,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Мишка 197,Електроніка,3877.38,150,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Рюкзак 198,Спорт та відпочинок,2310.19,486,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Куртка 199,Меблі,739.47,86,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Холодильник 200,Іграшки,3621.02,369,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Смартфон 201,Косметика,861.01,98,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Ноутбук 202,Косметика,4303.01,119,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Футболка 203,Спорт та відпочинок,3289.31,120,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Джинси 204,Побутова хімія,1365.3,164,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Кавоварка 205,Побутова хімія,4773.21,274,FastDelivery,supplier4@trade.com,+380820334794,США
+Навушники 206,Іграшки,1499.19,753,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Книга «207»,Продукти харчування,3892.3,726,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Крісло 208,Іграшки,664.75,673,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Велосипед 209,Спорт та відпочинок,2394.93,278,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Помада 210,Книги,4748.77,194,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Шампунь 211,Іграшки,1112.36,499,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Чай 212,Спорт та відпочинок,2894.66,367,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Кросівки 213,Меблі,4008.94,557,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Планшет 214,Побутова хімія,2244.75,779,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Монітор 215,Спорт та відпочинок,3064.28,675,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Клавіатура 216,Книги,505.15,649,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Мишка 217,Косметика,4297.89,877,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Рюкзак 218,Косметика,296.65,700,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Куртка 219,Одяг,1664.47,314,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Холодильник 220,Електроніка,1317.36,75,XiNetwork,supplier19@trade.com,+380966001638,США
+Смартфон 221,Косметика,2113.72,551,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Ноутбук 222,Авто,3401.9,963,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Футболка 223,Продукти харчування,1626.93,182,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Джинси 224,Іграшки,4962.61,222,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Кавоварка 225,Авто,222.12,800,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Навушники 226,Авто,2328.24,5,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Книга «227»,Продукти харчування,2005.69,729,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Крісло 228,Одяг,2854.83,324,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Велосипед 229,Електроніка,3240.8,857,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Помада 230,Побутова хімія,238.06,487,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Шампунь 231,Іграшки,1799.02,13,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Чай 232,Іграшки,1601.09,192,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Кросівки 233,Електроніка,2887.76,364,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Планшет 234,Спорт та відпочинок,2541.0,545,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Монітор 235,Спорт та відпочинок,2260.14,791,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Клавіатура 236,Продукти харчування,4400.76,569,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Мишка 237,Авто,3352.53,784,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Рюкзак 238,Іграшки,2003.4,93,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Куртка 239,Побутова хімія,4435.69,598,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Холодильник 240,Спорт та відпочинок,83.28,908,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Смартфон 241,Спорт та відпочинок,3822.1,644,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Ноутбук 242,Одяг,2392.2,544,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Футболка 243,Меблі,487.6,859,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Джинси 244,Іграшки,2358.0,250,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Кавоварка 245,Електроніка,633.77,21,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Навушники 246,Косметика,1718.29,334,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Книга «247»,Косметика,2574.58,170,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Крісло 248,Книги,2352.05,775,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Велосипед 249,Продукти харчування,3106.65,315,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Помада 250,Продукти харчування,170.09,47,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Шампунь 251,Іграшки,2674.77,720,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Чай 252,Косметика,1688.34,300,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Кросівки 253,Електроніка,3858.06,85,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Планшет 254,Авто,3164.0,330,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Монітор 255,Іграшки,2892.99,382,FastDelivery,supplier4@trade.com,+380820334794,США
+Клавіатура 256,Спорт та відпочинок,2451.17,124,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Мишка 257,Спорт та відпочинок,4985.05,594,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Рюкзак 258,Авто,4934.85,959,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Куртка 259,Побутова хімія,3098.28,383,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Холодильник 260,Побутова хімія,2660.98,986,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Смартфон 261,Меблі,793.22,553,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Ноутбук 262,Косметика,4919.84,13,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Футболка 263,Меблі,4653.47,660,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Джинси 264,Косметика,4616.24,688,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Кавоварка 265,Косметика,4907.53,327,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Навушники 266,Одяг,1815.51,934,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Книга «267»,Меблі,3636.01,382,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Крісло 268,Косметика,655.87,276,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Велосипед 269,Меблі,102.03,13,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Помада 270,Косметика,4682.32,153,XiNetwork,supplier19@trade.com,+380966001638,США
+Шампунь 271,Продукти харчування,4660.81,744,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Чай 272,Книги,4305.09,683,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Кросівки 273,Меблі,2503.32,151,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Планшет 274,Одяг,3452.42,732,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Монітор 275,Побутова хімія,3959.1,535,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Клавіатура 276,Іграшки,1220.7,602,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Мишка 277,Спорт та відпочинок,756.15,142,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Рюкзак 278,Продукти харчування,895.67,753,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Куртка 279,Меблі,1704.49,399,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Холодильник 280,Меблі,2056.71,869,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Смартфон 281,Меблі,4922.75,587,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Ноутбук 282,Побутова хімія,1496.3,323,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Футболка 283,Іграшки,4284.34,887,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Джинси 284,Косметика,1691.17,727,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Кавоварка 285,Косметика,476.92,221,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Навушники 286,Одяг,3826.57,18,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Книга «287»,Іграшки,1429.65,149,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Крісло 288,Авто,1758.52,666,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Велосипед 289,Косметика,1563.24,667,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Помада 290,Одяг,199.24,792,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Шампунь 291,Продукти харчування,1647.08,893,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Чай 292,Книги,4462.8,106,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Кросівки 293,Книги,4519.15,386,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Планшет 294,Косметика,2402.48,961,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Монітор 295,Одяг,1056.48,134,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Клавіатура 296,Косметика,1471.88,207,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Мишка 297,Побутова хімія,1084.12,330,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Рюкзак 298,Іграшки,1998.19,770,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Куртка 299,Електроніка,2562.84,967,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Холодильник 300,Спорт та відпочинок,210.47,928,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Смартфон 301,Книги,4975.95,583,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Ноутбук 302,Косметика,4326.5,569,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Футболка 303,Одяг,2017.0,442,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Джинси 304,Побутова хімія,770.58,828,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Кавоварка 305,Косметика,856.53,700,FastDelivery,supplier4@trade.com,+380820334794,США
+Навушники 306,Продукти харчування,784.83,549,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Книга «307»,Іграшки,1121.72,822,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Крісло 308,Одяг,4917.6,919,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Велосипед 309,Меблі,1287.17,477,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Помада 310,Іграшки,4649.96,449,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Шампунь 311,Продукти харчування,4193.82,478,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Чай 312,Книги,1687.82,999,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Кросівки 313,Книги,4714.15,682,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Планшет 314,Меблі,859.3,588,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Монітор 315,Електроніка,185.0,647,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Клавіатура 316,Меблі,3048.2,807,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Мишка 317,Авто,1747.46,494,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Рюкзак 318,Косметика,1195.94,813,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Куртка 319,Продукти харчування,4220.0,372,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Холодильник 320,Продукти харчування,1477.62,241,XiNetwork,supplier19@trade.com,+380966001638,США
+Смартфон 321,Авто,1401.2,853,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Ноутбук 322,Меблі,2287.15,17,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Футболка 323,Книги,509.85,344,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Джинси 324,Меблі,1016.21,966,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Кавоварка 325,Одяг,3386.48,961,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Навушники 326,Косметика,582.2,273,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Книга «327»,Одяг,77.53,259,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Крісло 328,Книги,4653.58,79,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Велосипед 329,Авто,302.81,9,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Помада 330,Книги,493.98,453,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Шампунь 331,Книги,4909.73,179,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Чай 332,Побутова хімія,4427.85,659,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Кросівки 333,Спорт та відпочинок,2500.94,672,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Планшет 334,Спорт та відпочинок,3965.17,628,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Монітор 335,Авто,4999.52,263,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Клавіатура 336,Побутова хімія,1040.23,285,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Мишка 337,Меблі,4776.01,77,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Рюкзак 338,Косметика,2890.45,577,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Куртка 339,Меблі,842.13,284,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Холодильник 340,Побутова хімія,534.88,488,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Смартфон 341,Косметика,4269.2,563,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Ноутбук 342,Книги,1969.56,358,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Футболка 343,Продукти харчування,885.27,199,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Джинси 344,Авто,4975.81,733,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Кавоварка 345,Меблі,719.23,853,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Навушники 346,Спорт та відпочинок,4955.13,338,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Книга «347»,Одяг,2314.94,3,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Крісло 348,Авто,1496.7,133,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Велосипед 349,Меблі,1640.48,67,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Помада 350,Одяг,3087.43,233,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Шампунь 351,Косметика,2653.69,203,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Чай 352,Іграшки,4025.68,381,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Кросівки 353,Електроніка,2929.71,864,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Планшет 354,Книги,3462.39,301,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Монітор 355,Побутова хімія,4719.12,399,FastDelivery,supplier4@trade.com,+380820334794,США
+Клавіатура 356,Іграшки,1888.7,550,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Мишка 357,Іграшки,355.81,940,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Рюкзак 358,Продукти харчування,3411.02,719,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Куртка 359,Одяг,3948.04,291,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Холодильник 360,Одяг,2120.98,517,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Смартфон 361,Меблі,4002.34,391,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Ноутбук 362,Книги,4679.6,238,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Футболка 363,Електроніка,1027.55,353,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Джинси 364,Книги,2752.75,257,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Кавоварка 365,Авто,1599.43,428,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Навушники 366,Побутова хімія,3095.27,166,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Книга «367»,Авто,4791.07,639,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Крісло 368,Електроніка,2599.22,258,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Велосипед 369,Книги,2559.41,274,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Помада 370,Книги,2143.48,988,XiNetwork,supplier19@trade.com,+380966001638,США
+Шампунь 371,Іграшки,672.86,386,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Чай 372,Книги,1459.63,585,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Кросівки 373,Продукти харчування,1470.14,883,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Планшет 374,Авто,4104.7,291,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Монітор 375,Іграшки,4320.67,905,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Клавіатура 376,Побутова хімія,1887.99,832,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Мишка 377,Книги,4412.85,372,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Рюкзак 378,Спорт та відпочинок,377.06,215,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Куртка 379,Авто,1926.93,948,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Холодильник 380,Спорт та відпочинок,2556.77,171,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Смартфон 381,Одяг,246.13,103,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Ноутбук 382,Побутова хімія,3630.98,75,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Футболка 383,Продукти харчування,1685.96,484,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Джинси 384,Електроніка,3036.28,303,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Кавоварка 385,Побутова хімія,3369.78,548,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Навушники 386,Продукти харчування,1327.31,740,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Книга «387»,Авто,4183.07,572,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Крісло 388,Авто,4769.42,356,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Велосипед 389,Продукти харчування,4957.93,531,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Помада 390,Електроніка,1468.15,685,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Шампунь 391,Побутова хімія,2346.87,292,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Чай 392,Книги,4396.66,206,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Кросівки 393,Побутова хімія,3394.02,410,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Планшет 394,Спорт та відпочинок,3220.63,113,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Монітор 395,Книги,2334.55,123,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Клавіатура 396,Книги,380.22,894,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Мишка 397,Побутова хімія,4257.32,637,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Рюкзак 398,Продукти харчування,1539.06,117,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Куртка 399,Книги,46.38,865,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Холодильник 400,Спорт та відпочинок,108.42,380,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Смартфон 401,Косметика,4979.45,863,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Ноутбук 402,Продукти харчування,4445.93,23,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Футболка 403,Авто,1916.94,445,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Джинси 404,Меблі,2330.37,857,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Кавоварка 405,Меблі,1468.48,218,FastDelivery,supplier4@trade.com,+380820334794,США
+Навушники 406,Побутова хімія,877.11,750,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Книга «407»,Побутова хімія,3119.53,966,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Крісло 408,Одяг,522.13,288,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Велосипед 409,Книги,4307.26,380,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Помада 410,Меблі,2796.33,384,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Шампунь 411,Книги,4309.11,664,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Чай 412,Авто,4816.38,819,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Кросівки 413,Меблі,1021.35,189,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Планшет 414,Книги,3764.53,978,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Монітор 415,Спорт та відпочинок,1329.62,681,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Клавіатура 416,Меблі,4059.48,903,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Мишка 417,Спорт та відпочинок,3873.86,355,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Рюкзак 418,Авто,204.9,341,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Куртка 419,Електроніка,4323.32,852,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Холодильник 420,Спорт та відпочинок,2043.81,13,XiNetwork,supplier19@trade.com,+380966001638,США
+Смартфон 421,Книги,2362.06,932,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Ноутбук 422,Побутова хімія,947.93,635,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Футболка 423,Авто,3606.89,549,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Джинси 424,Іграшки,2562.89,727,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Кавоварка 425,Косметика,1456.77,6,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Навушники 426,Спорт та відпочинок,852.87,587,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Книга «427»,Іграшки,1479.13,741,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Крісло 428,Іграшки,1156.93,104,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Велосипед 429,Одяг,2628.53,68,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Помада 430,Косметика,920.38,23,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Шампунь 431,Авто,3360.54,411,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Чай 432,Книги,3692.15,227,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Кросівки 433,Продукти харчування,3059.82,57,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Планшет 434,Спорт та відпочинок,4124.43,33,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Монітор 435,Електроніка,2708.28,474,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Клавіатура 436,Меблі,3728.84,879,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Мишка 437,Спорт та відпочинок,1698.2,292,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Рюкзак 438,Одяг,4206.15,89,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Куртка 439,Косметика,1974.75,313,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Холодильник 440,Побутова хімія,1026.13,128,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Смартфон 441,Одяг,4883.7,563,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Ноутбук 442,Електроніка,4155.57,85,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Футболка 443,Побутова хімія,1067.62,73,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Джинси 444,Косметика,3596.39,472,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Кавоварка 445,Книги,4871.08,410,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Навушники 446,Іграшки,3009.79,972,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Книга «447»,Продукти харчування,2738.06,258,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Крісло 448,Іграшки,2816.56,405,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Велосипед 449,Книги,4051.06,830,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Помада 450,Меблі,3339.39,554,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Шампунь 451,Меблі,2701.21,499,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Чай 452,Косметика,1881.24,203,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Кросівки 453,Косметика,925.12,211,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Планшет 454,Одяг,2760.39,603,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Монітор 455,Спорт та відпочинок,4409.07,234,FastDelivery,supplier4@trade.com,+380820334794,США
+Клавіатура 456,Спорт та відпочинок,2822.65,987,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Мишка 457,Побутова хімія,4376.49,735,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Рюкзак 458,Електроніка,908.02,405,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Куртка 459,Одяг,434.34,514,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Холодильник 460,Продукти харчування,1197.42,510,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Смартфон 461,Продукти харчування,767.48,817,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Ноутбук 462,Побутова хімія,2193.11,530,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Футболка 463,Продукти харчування,3177.14,477,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Джинси 464,Авто,4858.47,861,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Кавоварка 465,Електроніка,1593.05,547,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Навушники 466,Спорт та відпочинок,1903.2,310,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Книга «467»,Книги,650.53,855,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Крісло 468,Меблі,4349.67,365,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Велосипед 469,Одяг,3139.31,230,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Помада 470,Косметика,2835.19,267,XiNetwork,supplier19@trade.com,+380966001638,США
+Шампунь 471,Побутова хімія,1559.04,699,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Чай 472,Іграшки,2409.33,260,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Кросівки 473,Авто,3843.21,921,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Планшет 474,Авто,4804.94,223,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Монітор 475,Продукти харчування,344.1,456,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Клавіатура 476,Побутова хімія,24.56,274,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Мишка 477,Побутова хімія,4369.96,71,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Рюкзак 478,Одяг,2393.86,628,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Куртка 479,Продукти харчування,4334.06,228,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Холодильник 480,Меблі,2501.63,720,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Смартфон 481,Електроніка,2012.57,313,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Ноутбук 482,Продукти харчування,2363.28,906,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Футболка 483,Іграшки,3854.43,336,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Джинси 484,Меблі,4434.35,282,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Кавоварка 485,Продукти харчування,1074.47,73,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Навушники 486,Електроніка,2848.49,275,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Книга «487»,Одяг,3491.79,181,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Крісло 488,Меблі,1975.98,324,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Велосипед 489,Авто,1381.24,130,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Помада 490,Продукти харчування,2196.59,56,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Шампунь 491,Іграшки,2920.39,90,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Чай 492,Спорт та відпочинок,517.58,740,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Кросівки 493,Меблі,1334.43,765,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Планшет 494,Електроніка,549.01,73,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Монітор 495,Побутова хімія,1723.93,407,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Клавіатура 496,Побутова хімія,4598.11,908,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Мишка 497,Іграшки,1114.91,759,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Рюкзак 498,Косметика,4093.45,866,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Куртка 499,Електроніка,4865.06,864,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Холодильник 500,Побутова хімія,4509.65,179,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Смартфон 501,Книги,1247.7,187,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Ноутбук 502,Косметика,2661.19,921,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Футболка 503,Побутова хімія,4151.54,382,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Джинси 504,Меблі,4862.57,999,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Кавоварка 505,Іграшки,1487.6,832,FastDelivery,supplier4@trade.com,+380820334794,США
+Навушники 506,Косметика,3222.02,410,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Книга «507»,Меблі,4898.03,339,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Крісло 508,Меблі,3384.33,588,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Велосипед 509,Косметика,744.45,218,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Помада 510,Електроніка,467.43,245,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Шампунь 511,Одяг,2130.8,905,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Чай 512,Одяг,2134.88,928,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Кросівки 513,Книги,2161.86,671,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Планшет 514,Побутова хімія,2749.24,176,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Монітор 515,Побутова хімія,144.75,846,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Клавіатура 516,Косметика,3784.05,641,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Мишка 517,Книги,3539.32,685,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Рюкзак 518,Побутова хімія,1057.92,740,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Куртка 519,Книги,4550.4,194,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Холодильник 520,Іграшки,1096.28,186,XiNetwork,supplier19@trade.com,+380966001638,США
+Смартфон 521,Авто,2367.75,958,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Ноутбук 522,Меблі,4101.4,99,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Футболка 523,Продукти харчування,2730.75,650,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Джинси 524,Книги,39.46,25,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Кавоварка 525,Авто,2565.1,770,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Навушники 526,Авто,4583.75,142,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Книга «527»,Косметика,4322.51,563,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Крісло 528,Книги,3867.72,22,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Велосипед 529,Косметика,1489.19,35,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Помада 530,Авто,254.22,625,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Шампунь 531,Косметика,4354.96,206,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Чай 532,Продукти харчування,3051.91,277,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Кросівки 533,Побутова хімія,2916.7,509,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Планшет 534,Електроніка,1226.99,567,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Монітор 535,Меблі,4297.82,0,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Клавіатура 536,Книги,4152.87,419,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Мишка 537,Спорт та відпочинок,3165.84,263,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Рюкзак 538,Косметика,463.58,119,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Куртка 539,Іграшки,4109.94,488,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Холодильник 540,Косметика,1926.13,30,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Смартфон 541,Косметика,209.78,540,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Ноутбук 542,Одяг,3723.57,499,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Футболка 543,Книги,2932.93,256,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Джинси 544,Електроніка,3425.55,886,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Кавоварка 545,Книги,1266.71,633,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Навушники 546,Електроніка,4837.97,788,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Книга «547»,Меблі,3424.31,455,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Крісло 548,Косметика,4290.98,494,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Велосипед 549,Побутова хімія,4331.73,921,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Помада 550,Побутова хімія,4465.97,525,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Шампунь 551,Побутова хімія,602.25,522,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Чай 552,Спорт та відпочинок,2557.64,801,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Кросівки 553,Меблі,1715.66,337,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Планшет 554,Іграшки,3670.19,379,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Монітор 555,Побутова хімія,1892.03,35,FastDelivery,supplier4@trade.com,+380820334794,США
+Клавіатура 556,Одяг,4626.44,525,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Мишка 557,Одяг,573.94,914,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Рюкзак 558,Косметика,2853.75,884,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Куртка 559,Спорт та відпочинок,2068.07,557,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Холодильник 560,Продукти харчування,894.0,186,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Смартфон 561,Косметика,2065.81,366,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Ноутбук 562,Авто,2886.76,464,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Футболка 563,Продукти харчування,751.53,896,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Джинси 564,Меблі,1724.09,460,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Кавоварка 565,Книги,2880.56,134,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Навушники 566,Спорт та відпочинок,3448.15,737,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Книга «567»,Продукти харчування,1022.05,296,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Крісло 568,Меблі,2254.9,987,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Велосипед 569,Одяг,3470.89,16,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Помада 570,Одяг,1651.48,699,XiNetwork,supplier19@trade.com,+380966001638,США
+Шампунь 571,Електроніка,2465.61,16,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Чай 572,Авто,2593.62,524,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Кросівки 573,Електроніка,4641.54,810,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Планшет 574,Авто,1427.79,622,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Монітор 575,Спорт та відпочинок,3493.41,862,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Клавіатура 576,Електроніка,3877.98,70,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Мишка 577,Електроніка,3323.18,502,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Рюкзак 578,Іграшки,4803.32,880,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Куртка 579,Косметика,714.42,253,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Холодильник 580,Косметика,1751.65,474,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Смартфон 581,Меблі,1657.96,146,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Ноутбук 582,Авто,2834.56,492,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Футболка 583,Побутова хімія,4702.48,56,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Джинси 584,Продукти харчування,608.06,614,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Кавоварка 585,Спорт та відпочинок,3082.76,838,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Навушники 586,Побутова хімія,663.2,150,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Книга «587»,Електроніка,4848.48,471,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Крісло 588,Меблі,93.17,618,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Велосипед 589,Спорт та відпочинок,2816.27,251,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Помада 590,Електроніка,4119.01,367,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Шампунь 591,Меблі,2781.2,50,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Чай 592,Меблі,640.38,43,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Кросівки 593,Побутова хімія,3106.32,651,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Планшет 594,Продукти харчування,2312.23,955,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Монітор 595,Іграшки,2806.12,950,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Клавіатура 596,Побутова хімія,1881.41,836,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Мишка 597,Продукти харчування,2541.24,567,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Рюкзак 598,Косметика,4680.3,111,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Куртка 599,Меблі,447.08,895,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Холодильник 600,Продукти харчування,1745.57,891,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Смартфон 601,Електроніка,582.38,233,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Ноутбук 602,Косметика,1135.25,807,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Футболка 603,Авто,4233.08,725,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Джинси 604,Одяг,3671.36,710,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Кавоварка 605,Електроніка,24.5,367,FastDelivery,supplier4@trade.com,+380820334794,США
+Навушники 606,Авто,643.78,468,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Книга «607»,Одяг,3904.67,107,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Крісло 608,Авто,780.74,919,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Велосипед 609,Авто,4407.08,362,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Помада 610,Електроніка,40.68,69,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Шампунь 611,Косметика,2323.44,642,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Чай 612,Побутова хімія,3087.54,266,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Кросівки 613,Книги,1358.45,743,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Планшет 614,Побутова хімія,2305.61,92,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Монітор 615,Одяг,1112.94,222,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Клавіатура 616,Електроніка,3216.6,192,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Мишка 617,Продукти харчування,3103.73,193,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Рюкзак 618,Косметика,4652.27,919,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Куртка 619,Побутова хімія,4502.08,300,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Холодильник 620,Продукти харчування,1060.94,927,XiNetwork,supplier19@trade.com,+380966001638,США
+Смартфон 621,Електроніка,3398.94,26,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Ноутбук 622,Спорт та відпочинок,2028.32,173,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Футболка 623,Одяг,4046.78,89,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Джинси 624,Спорт та відпочинок,3011.94,948,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Кавоварка 625,Меблі,4435.14,163,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Навушники 626,Одяг,4708.09,909,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Книга «627»,Меблі,1926.62,25,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Крісло 628,Книги,2896.93,535,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Велосипед 629,Меблі,36.22,293,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Помада 630,Спорт та відпочинок,526.56,451,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Шампунь 631,Меблі,4750.08,113,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Чай 632,Іграшки,4843.54,347,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Кросівки 633,Іграшки,3438.1,872,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Планшет 634,Авто,4244.13,839,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Монітор 635,Одяг,1271.09,656,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Клавіатура 636,Іграшки,976.11,671,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Мишка 637,Книги,686.41,265,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Рюкзак 638,Побутова хімія,959.44,501,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Куртка 639,Побутова хімія,4728.05,449,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Холодильник 640,Електроніка,104.07,232,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Смартфон 641,Спорт та відпочинок,2273.01,113,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Ноутбук 642,Меблі,162.94,740,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Футболка 643,Спорт та відпочинок,168.46,884,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Джинси 644,Побутова хімія,1269.67,912,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Кавоварка 645,Іграшки,254.12,303,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Навушники 646,Електроніка,1894.73,927,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Книга «647»,Книги,1690.74,144,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Крісло 648,Одяг,598.2,853,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Велосипед 649,Книги,3603.38,836,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Помада 650,Авто,4577.3,180,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Шампунь 651,Одяг,2208.33,770,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Чай 652,Косметика,4059.6,191,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Кросівки 653,Електроніка,3078.29,223,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Планшет 654,Спорт та відпочинок,4103.59,376,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Монітор 655,Авто,332.28,265,FastDelivery,supplier4@trade.com,+380820334794,США
+Клавіатура 656,Спорт та відпочинок,1089.29,862,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Мишка 657,Спорт та відпочинок,299.1,63,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Рюкзак 658,Авто,2888.25,933,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Куртка 659,Меблі,2489.27,783,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Холодильник 660,Електроніка,4973.71,937,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Смартфон 661,Спорт та відпочинок,1156.28,379,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Ноутбук 662,Електроніка,3326.36,535,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Футболка 663,Косметика,205.25,142,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Джинси 664,Меблі,3456.98,273,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Кавоварка 665,Спорт та відпочинок,3347.88,576,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Навушники 666,Продукти харчування,2209.77,411,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Книга «667»,Побутова хімія,616.18,105,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Крісло 668,Меблі,1561.35,829,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Велосипед 669,Косметика,979.82,244,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Помада 670,Іграшки,2506.87,918,XiNetwork,supplier19@trade.com,+380966001638,США
+Шампунь 671,Авто,3099.34,57,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Чай 672,Книги,4943.4,698,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Кросівки 673,Авто,1130.08,177,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Планшет 674,Авто,1148.76,216,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Монітор 675,Електроніка,4477.24,259,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Клавіатура 676,Книги,2459.26,882,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Мишка 677,Продукти харчування,2188.48,293,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Рюкзак 678,Книги,2242.16,941,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Куртка 679,Меблі,1100.57,115,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Холодильник 680,Косметика,770.78,754,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Смартфон 681,Спорт та відпочинок,2311.42,585,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Ноутбук 682,Іграшки,3047.4,802,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Футболка 683,Книги,3539.52,95,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Джинси 684,Книги,2533.31,28,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Кавоварка 685,Спорт та відпочинок,730.46,738,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Навушники 686,Одяг,2928.18,49,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Книга «687»,Електроніка,4255.02,597,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Крісло 688,Електроніка,1723.95,999,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Велосипед 689,Електроніка,3909.77,945,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Помада 690,Побутова хімія,4119.68,215,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Шампунь 691,Іграшки,1532.2,798,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Чай 692,Електроніка,3310.25,439,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Кросівки 693,Електроніка,2762.25,97,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Планшет 694,Іграшки,3681.1,56,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Монітор 695,Продукти харчування,3909.8,469,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Клавіатура 696,Меблі,518.02,951,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Мишка 697,Побутова хімія,728.59,699,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Рюкзак 698,Продукти харчування,3443.99,211,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Куртка 699,Косметика,3027.32,613,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Холодильник 700,Електроніка,51.25,663,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Смартфон 701,Електроніка,4065.44,845,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Ноутбук 702,Авто,3165.07,876,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Футболка 703,Косметика,1947.89,391,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Джинси 704,Меблі,3584.22,897,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Кавоварка 705,Авто,99.43,711,FastDelivery,supplier4@trade.com,+380820334794,США
+Навушники 706,Електроніка,3492.35,277,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Книга «707»,Електроніка,4039.8,299,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Крісло 708,Одяг,3348.95,463,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Велосипед 709,Електроніка,3084.38,881,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Помада 710,Побутова хімія,895.09,403,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Шампунь 711,Книги,4042.81,917,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Чай 712,Побутова хімія,3077.89,914,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Кросівки 713,Спорт та відпочинок,2893.88,389,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Планшет 714,Побутова хімія,85.25,499,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Монітор 715,Іграшки,2711.04,504,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Клавіатура 716,Побутова хімія,809.5,249,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Мишка 717,Спорт та відпочинок,2787.73,333,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Рюкзак 718,Спорт та відпочинок,4978.31,481,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Куртка 719,Побутова хімія,3778.29,285,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Холодильник 720,Побутова хімія,756.56,876,XiNetwork,supplier19@trade.com,+380966001638,США
+Смартфон 721,Іграшки,3417.7,568,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Ноутбук 722,Авто,930.52,698,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Футболка 723,Спорт та відпочинок,1765.4,618,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Джинси 724,Спорт та відпочинок,1192.34,716,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Кавоварка 725,Косметика,1377.31,773,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Навушники 726,Побутова хімія,2973.67,674,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Книга «727»,Електроніка,4339.95,710,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Крісло 728,Авто,3384.65,394,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Велосипед 729,Книги,3629.28,266,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Помада 730,Меблі,237.77,883,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Шампунь 731,Меблі,2311.96,167,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Чай 732,Спорт та відпочинок,4485.27,696,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Кросівки 733,Книги,2427.9,808,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Планшет 734,Одяг,541.36,224,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Монітор 735,Продукти харчування,4911.44,521,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Клавіатура 736,Іграшки,890.4,933,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Мишка 737,Книги,1150.99,895,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Рюкзак 738,Побутова хімія,4556.32,755,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Куртка 739,Іграшки,4737.58,264,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Холодильник 740,Косметика,182.58,519,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Смартфон 741,Електроніка,4832.9,973,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Ноутбук 742,Косметика,4728.97,775,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Футболка 743,Продукти харчування,2741.64,904,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Джинси 744,Одяг,2607.88,144,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Кавоварка 745,Іграшки,4839.6,472,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Навушники 746,Побутова хімія,2724.6,724,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Книга «747»,Іграшки,4654.27,400,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Крісло 748,Спорт та відпочинок,2639.69,513,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Велосипед 749,Меблі,3801.42,691,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Помада 750,Меблі,1976.82,906,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Шампунь 751,Косметика,2188.84,907,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Чай 752,Книги,1160.89,35,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Кросівки 753,Меблі,1885.42,306,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Планшет 754,Продукти харчування,4161.17,822,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Монітор 755,Авто,800.18,713,FastDelivery,supplier4@trade.com,+380820334794,США
+Клавіатура 756,Спорт та відпочинок,669.31,797,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Мишка 757,Авто,204.61,464,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Рюкзак 758,Косметика,4387.94,792,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Куртка 759,Електроніка,963.05,271,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Холодильник 760,Спорт та відпочинок,3493.64,138,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Смартфон 761,Одяг,975.34,749,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Ноутбук 762,Меблі,2794.69,718,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Футболка 763,Косметика,2674.47,33,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Джинси 764,Електроніка,1583.83,608,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Кавоварка 765,Меблі,232.77,772,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Навушники 766,Косметика,3389.98,337,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Книга «767»,Іграшки,4285.93,474,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Крісло 768,Меблі,1812.54,652,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Велосипед 769,Побутова хімія,2145.45,308,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Помада 770,Продукти харчування,1008.11,187,XiNetwork,supplier19@trade.com,+380966001638,США
+Шампунь 771,Побутова хімія,2610.89,771,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Чай 772,Спорт та відпочинок,4798.23,136,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Кросівки 773,Побутова хімія,1285.38,257,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Планшет 774,Книги,1487.34,581,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Монітор 775,Електроніка,349.41,158,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Клавіатура 776,Косметика,1254.91,316,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Мишка 777,Книги,647.37,319,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Рюкзак 778,Книги,2642.51,521,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Куртка 779,Іграшки,4953.7,887,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Холодильник 780,Іграшки,3275.95,280,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Смартфон 781,Авто,4478.96,840,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Ноутбук 782,Продукти харчування,2679.34,421,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Футболка 783,Побутова хімія,1433.09,149,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Джинси 784,Побутова хімія,1724.84,449,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Кавоварка 785,Продукти харчування,1190.25,225,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Навушники 786,Іграшки,3132.33,199,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Книга «787»,Косметика,940.49,286,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Крісло 788,Спорт та відпочинок,3100.27,130,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Велосипед 789,Продукти харчування,2042.13,745,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Помада 790,Продукти харчування,4381.22,685,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Шампунь 791,Меблі,371.87,243,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Чай 792,Продукти харчування,4369.72,892,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Кросівки 793,Продукти харчування,4601.32,588,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Планшет 794,Іграшки,515.02,597,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Монітор 795,Авто,579.7,186,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Клавіатура 796,Авто,989.84,803,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Мишка 797,Іграшки,313.17,233,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Рюкзак 798,Іграшки,3762.85,349,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Куртка 799,Авто,4686.39,142,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Холодильник 800,Меблі,2775.41,497,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Смартфон 801,Одяг,2932.11,522,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Ноутбук 802,Побутова хімія,2594.78,123,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Футболка 803,Меблі,3130.13,480,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Джинси 804,Косметика,2381.11,243,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Кавоварка 805,Іграшки,3605.74,241,FastDelivery,supplier4@trade.com,+380820334794,США
+Навушники 806,Електроніка,4566.4,687,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Книга «807»,Косметика,1898.19,563,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Крісло 808,Іграшки,2571.02,299,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Велосипед 809,Авто,603.96,860,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Помада 810,Спорт та відпочинок,738.84,534,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Шампунь 811,Іграшки,4429.01,732,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Чай 812,Іграшки,3986.74,973,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Кросівки 813,Спорт та відпочинок,1195.43,605,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Планшет 814,Авто,3244.95,130,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Монітор 815,Електроніка,1068.71,932,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Клавіатура 816,Меблі,3907.76,363,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Мишка 817,Іграшки,2987.2,145,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Рюкзак 818,Меблі,3310.57,135,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Куртка 819,Побутова хімія,1872.22,459,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Холодильник 820,Продукти харчування,2803.24,922,XiNetwork,supplier19@trade.com,+380966001638,США
+Смартфон 821,Меблі,418.1,542,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Ноутбук 822,Меблі,4732.04,511,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Футболка 823,Електроніка,3378.1,457,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Джинси 824,Авто,1121.51,86,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Кавоварка 825,Меблі,4961.54,828,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Навушники 826,Іграшки,598.37,909,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Книга «827»,Одяг,1910.14,699,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Крісло 828,Меблі,610.58,769,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Велосипед 829,Продукти харчування,2475.58,163,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Помада 830,Одяг,396.22,450,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Шампунь 831,Спорт та відпочинок,3270.08,988,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Чай 832,Меблі,413.52,775,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Кросівки 833,Меблі,2606.94,7,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Планшет 834,Побутова хімія,3805.91,797,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Монітор 835,Спорт та відпочинок,4903.69,982,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Клавіатура 836,Книги,168.61,650,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Мишка 837,Авто,2821.72,556,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Рюкзак 838,Одяг,3444.7,12,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Куртка 839,Іграшки,3822.17,102,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Холодильник 840,Побутова хімія,4249.31,862,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Смартфон 841,Іграшки,1641.84,922,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Ноутбук 842,Іграшки,1246.27,104,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Футболка 843,Авто,3997.0,404,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Джинси 844,Продукти харчування,3263.57,856,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Кавоварка 845,Одяг,1485.24,173,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Навушники 846,Книги,1358.42,89,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Книга «847»,Електроніка,2891.71,132,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Крісло 848,Косметика,1630.15,424,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Велосипед 849,Авто,883.36,807,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Помада 850,Книги,4218.22,281,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Шампунь 851,Іграшки,1454.26,622,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Чай 852,Авто,4941.61,749,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Кросівки 853,Спорт та відпочинок,3318.63,580,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Планшет 854,Продукти харчування,567.46,587,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Монітор 855,Косметика,3210.23,305,FastDelivery,supplier4@trade.com,+380820334794,США
+Клавіатура 856,Меблі,4041.72,979,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Мишка 857,Електроніка,605.27,965,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Рюкзак 858,Косметика,1226.77,285,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Куртка 859,Продукти харчування,4568.7,736,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Холодильник 860,Одяг,1204.91,58,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Смартфон 861,Продукти харчування,1014.7,744,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Ноутбук 862,Книги,3940.12,900,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Футболка 863,Одяг,1023.73,393,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Джинси 864,Побутова хімія,2167.49,201,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Кавоварка 865,Побутова хімія,2718.02,530,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Навушники 866,Спорт та відпочинок,1700.47,816,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Книга «867»,Меблі,582.92,478,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Крісло 868,Книги,4108.32,65,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Велосипед 869,Іграшки,632.72,576,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Помада 870,Електроніка,1555.57,88,XiNetwork,supplier19@trade.com,+380966001638,США
+Шампунь 871,Іграшки,1974.41,202,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Чай 872,Авто,4097.92,819,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Кросівки 873,Авто,2138.37,805,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Планшет 874,Спорт та відпочинок,4686.99,994,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Монітор 875,Книги,3455.67,539,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Клавіатура 876,Електроніка,178.24,811,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Мишка 877,Електроніка,2954.54,209,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Рюкзак 878,Одяг,1088.77,586,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Куртка 879,Іграшки,615.73,45,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Холодильник 880,Меблі,1187.97,416,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Смартфон 881,Спорт та відпочинок,2548.73,619,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Ноутбук 882,Одяг,1960.67,227,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Футболка 883,Спорт та відпочинок,825.06,129,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Джинси 884,Книги,1762.62,501,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Кавоварка 885,Побутова хімія,4281.64,932,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Навушники 886,Косметика,2530.75,332,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Книга «887»,Спорт та відпочинок,247.6,224,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Крісло 888,Авто,1828.15,684,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Велосипед 889,Меблі,538.97,15,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Помада 890,Меблі,3439.27,509,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Шампунь 891,Авто,3993.85,158,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Чай 892,Книги,4285.74,496,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Кросівки 893,Побутова хімія,3452.03,389,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Планшет 894,Косметика,1294.93,291,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Монітор 895,Побутова хімія,3161.52,676,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Клавіатура 896,Авто,1761.16,908,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Мишка 897,Спорт та відпочинок,2644.38,44,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Рюкзак 898,Книги,1266.99,718,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Куртка 899,Авто,1439.58,65,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Холодильник 900,Книги,4650.45,639,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Смартфон 901,Меблі,2395.9,775,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Ноутбук 902,Електроніка,102.27,689,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Футболка 903,Продукти харчування,4525.37,944,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Джинси 904,Одяг,4652.82,720,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Кавоварка 905,Меблі,4205.85,477,FastDelivery,supplier4@trade.com,+380820334794,США
+Навушники 906,Побутова хімія,4855.35,427,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Книга «907»,Спорт та відпочинок,119.98,875,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Крісло 908,Спорт та відпочинок,1319.77,123,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Велосипед 909,Косметика,509.64,241,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Помада 910,Іграшки,1730.23,383,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Шампунь 911,Побутова хімія,3630.03,361,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Чай 912,Меблі,3074.66,697,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Кросівки 913,Авто,586.63,953,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Планшет 914,Продукти харчування,418.36,367,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Монітор 915,Спорт та відпочинок,2382.58,395,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Клавіатура 916,Іграшки,936.85,465,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Мишка 917,Іграшки,1545.9,986,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Рюкзак 918,Косметика,3729.14,568,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Куртка 919,Продукти харчування,2270.99,792,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Холодильник 920,Побутова хімія,473.66,855,XiNetwork,supplier19@trade.com,+380966001638,США
+Смартфон 921,Побутова хімія,1007.75,32,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Ноутбук 922,Побутова хімія,4462.95,545,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Футболка 923,Меблі,2610.07,565,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Джинси 924,Електроніка,4154.68,991,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Кавоварка 925,Спорт та відпочинок,4115.43,206,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Навушники 926,Одяг,2842.81,216,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Книга «927»,Одяг,173.68,489,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Крісло 928,Косметика,4851.56,6,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Велосипед 929,Іграшки,1116.07,748,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Помада 930,Меблі,2309.61,300,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Шампунь 931,Меблі,165.35,958,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Чай 932,Електроніка,4344.47,287,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Кросівки 933,Авто,1266.36,805,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Планшет 934,Книги,1203.4,474,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Монітор 935,Продукти харчування,2769.01,842,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Клавіатура 936,Побутова хімія,4665.54,244,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Мишка 937,Побутова хімія,3165.8,388,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Рюкзак 938,Одяг,2830.78,314,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Куртка 939,Електроніка,1336.1,344,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Холодильник 940,Продукти харчування,1703.5,310,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Смартфон 941,Іграшки,2799.59,344,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Ноутбук 942,Книги,1638.03,588,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Футболка 943,Спорт та відпочинок,1870.3,904,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Джинси 944,Авто,3113.67,79,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Кавоварка 945,Іграшки,4555.77,619,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Навушники 946,Авто,3860.74,52,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Книга «947»,Авто,1742.83,535,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Крісло 948,Авто,2933.46,729,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Велосипед 949,Іграшки,4299.28,661,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Помада 950,Спорт та відпочинок,2939.74,44,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Шампунь 951,Побутова хімія,3486.39,120,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Чай 952,Книги,4814.31,720,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Кросівки 953,Продукти харчування,206.6,838,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Планшет 954,Іграшки,2149.99,670,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Монітор 955,Іграшки,4971.42,69,FastDelivery,supplier4@trade.com,+380820334794,США
+Клавіатура 956,Меблі,4535.31,969,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Мишка 957,Спорт та відпочинок,406.54,154,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Рюкзак 958,Книги,3575.69,805,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Куртка 959,Спорт та відпочинок,3581.88,231,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Холодильник 960,Косметика,1219.67,950,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Смартфон 961,Іграшки,3131.9,922,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Ноутбук 962,Спорт та відпочинок,4139.59,787,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Футболка 963,Одяг,3926.38,936,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Джинси 964,Продукти харчування,4137.05,570,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Кавоварка 965,Електроніка,3833.03,457,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Навушники 966,Меблі,3572.85,233,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Книга «967»,Іграшки,2135.59,261,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Крісло 968,Спорт та відпочинок,2645.97,999,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Велосипед 969,Книги,4428.16,803,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Помада 970,Одяг,4067.57,520,XiNetwork,supplier19@trade.com,+380966001638,США
+Шампунь 971,Косметика,2139.46,955,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Чай 972,Косметика,887.64,493,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Кросівки 973,Одяг,4420.06,755,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Планшет 974,Електроніка,1450.11,80,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Монітор 975,Меблі,2950.15,656,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Клавіатура 976,Спорт та відпочинок,1716.59,734,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Мишка 977,Спорт та відпочинок,4995.88,472,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Рюкзак 978,Іграшки,18.33,611,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Куртка 979,Продукти харчування,228.07,552,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Холодильник 980,Одяг,4564.24,107,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Смартфон 981,Меблі,4520.44,99,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Ноутбук 982,Авто,2382.64,436,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Футболка 983,Іграшки,2081.26,192,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Джинси 984,Одяг,183.91,705,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Кавоварка 985,Спорт та відпочинок,1822.15,281,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Навушники 986,Продукти харчування,4289.6,609,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Книга «987»,Спорт та відпочинок,387.66,24,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Крісло 988,Меблі,2388.14,26,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Велосипед 989,Косметика,3764.24,288,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Помада 990,Одяг,80.85,966,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Шампунь 991,Одяг,671.92,633,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Чай 992,Іграшки,1920.38,532,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Кросівки 993,Спорт та відпочинок,4122.77,632,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Планшет 994,Авто,1946.75,41,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Монітор 995,Електроніка,4951.77,98,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Клавіатура 996,Побутова хімія,4675.74,598,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Мишка 997,Меблі,2857.14,326,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Рюкзак 998,Одяг,571.44,133,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Куртка 999,Одяг,3870.59,645,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Холодильник 1000,Побутова хімія,484.75,816,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
+Смартфон 1001,Косметика,885.12,582,TechSupply UA,supplier0@trade.com,+380607368827,Німеччина
+Ноутбук 1002,Авто,905.33,533,EcoGoods Ltd,supplier1@trade.com,+380835207186,Китай
+Футболка 1003,Електроніка,1928.7,384,GlobalMart,supplier2@trade.com,+380654527617,Туреччина
+Джинси 1004,Одяг,1340.34,396,ProTrade Co,supplier3@trade.com,+380526910219,Україна
+Кавоварка 1005,Спорт та відпочинок,1547.82,23,FastDelivery,supplier4@trade.com,+380820334794,США
+Навушники 1006,Меблі,4108.17,315,MegaStock,supplier5@trade.com,+380796034115,Туреччина
+Книга «1007»,Продукти харчування,4003.33,772,AlphaWholesale,supplier6@trade.com,+380723396513,Туреччина
+Крісло 1008,Електроніка,2981.11,948,BetaDistrib,supplier7@trade.com,+380716006248,Польща
+Велосипед 1009,Продукти харчування,1733.99,196,GammaTrade,supplier8@trade.com,+380820938217,Німеччина
+Помада 1010,Книги,3861.59,110,DeltaGoods,supplier9@trade.com,+380908652236,Китай
+Шампунь 1011,Продукти харчування,4543.81,651,EpsilonMarket,supplier10@trade.com,+380652406182,Польща
+Чай 1012,Побутова хімія,4901.19,557,ZetaSupply,supplier11@trade.com,+380856596362,Польща
+Кросівки 1013,Авто,1413.54,553,EtaCommerce,supplier12@trade.com,+380699872406,Польща
+Планшет 1014,Спорт та відпочинок,4382.91,100,ThetaLogistics,supplier13@trade.com,+380886668904,Туреччина
+Монітор 1015,Іграшки,4065.19,134,IotaRetail,supplier14@trade.com,+380683112911,Україна
+Клавіатура 1016,Іграшки,3995.58,400,KappaStore,supplier15@trade.com,+380919132737,Німеччина
+Мишка 1017,Косметика,4313.87,53,LambdaHub,supplier16@trade.com,+380644186980,Китай
+Рюкзак 1018,Авто,1996.98,944,MuDistrib,supplier17@trade.com,+380586116144,Китай
+Куртка 1019,Електроніка,4072.7,222,NuSupplies,supplier18@trade.com,+380532206979,Франція
+Холодильник 1020,Одяг,2993.79,253,XiNetwork,supplier19@trade.com,+380966001638,США
+Смартфон 1021,Електроніка,1176.08,14,TechSupply UA 2,supplier20@trade.com,+380788633570,Китай
+Ноутбук 1022,Продукти харчування,314.25,706,EcoGoods Ltd 2,supplier21@trade.com,+380559889261,Китай
+Футболка 1023,Книги,2474.5,401,GlobalMart 2,supplier22@trade.com,+380513528495,Україна
+Джинси 1024,Меблі,982.7,764,ProTrade Co 2,supplier23@trade.com,+380929971814,Німеччина
+Кавоварка 1025,Одяг,2994.07,762,FastDelivery 2,supplier24@trade.com,+380502216650,Німеччина
+Навушники 1026,Одяг,1358.65,954,MegaStock 2,supplier25@trade.com,+380760427643,Польща
+Книга «1027»,Авто,393.1,893,AlphaWholesale 2,supplier26@trade.com,+380552199659,США
+Крісло 1028,Одяг,522.72,338,BetaDistrib 2,supplier27@trade.com,+380945500034,Україна
+Велосипед 1029,Авто,891.09,790,GammaTrade 2,supplier28@trade.com,+380823575860,Україна
+Помада 1030,Авто,4147.32,908,DeltaGoods 2,supplier29@trade.com,+380616445110,Китай
+Шампунь 1031,Іграшки,4034.47,871,EpsilonMarket 2,supplier30@trade.com,+380633121802,Туреччина
+Чай 1032,Продукти харчування,1611.93,260,ZetaSupply 2,supplier31@trade.com,+380902140937,Туреччина
+Кросівки 1033,Одяг,4241.29,30,EtaCommerce 2,supplier32@trade.com,+380690148601,Франція
+Планшет 1034,Авто,4579.67,16,ThetaLogistics 2,supplier33@trade.com,+380522112846,Україна
+Монітор 1035,Авто,456.92,252,IotaRetail 2,supplier34@trade.com,+380712493577,Україна
+Клавіатура 1036,Авто,1135.5,477,KappaStore 2,supplier35@trade.com,+380837915176,Німеччина
+Мишка 1037,Косметика,674.54,313,LambdaHub 2,supplier36@trade.com,+380986783818,США
+Рюкзак 1038,Електроніка,2895.47,585,MuDistrib 2,supplier37@trade.com,+380979992880,Китай
+Куртка 1039,Продукти харчування,2293.61,466,NuSupplies 2,supplier38@trade.com,+380550874078,Україна
+Холодильник 1040,Продукти харчування,4209.33,31,XiNetwork 2,supplier39@trade.com,+380968192167,Франція
+Смартфон 1041,Книги,3362.33,319,TechSupply UA 3,supplier40@trade.com,+380771593929,Китай
+Ноутбук 1042,Електроніка,3109.9,276,EcoGoods Ltd 3,supplier41@trade.com,+380584495002,США
+Футболка 1043,Продукти харчування,2105.19,725,GlobalMart 3,supplier42@trade.com,+380593874830,Україна
+Джинси 1044,Одяг,2614.16,815,ProTrade Co 3,supplier43@trade.com,+380704729251,Німеччина
+Кавоварка 1045,Косметика,4265.33,787,FastDelivery 3,supplier44@trade.com,+380529812884,Німеччина
+Навушники 1046,Книги,80.49,534,MegaStock 3,supplier45@trade.com,+380842976506,Польща
+Книга «1047»,Електроніка,3552.18,669,AlphaWholesale 3,supplier46@trade.com,+380904252705,США
+Крісло 1048,Спорт та відпочинок,919.18,67,BetaDistrib 3,supplier47@trade.com,+380856102592,Франція
+Велосипед 1049,Спорт та відпочинок,4580.02,676,GammaTrade 3,supplier48@trade.com,+380708531027,Франція
+Помада 1050,Авто,2935.73,409,DeltaGoods 3,supplier49@trade.com,+380760529437,Польща
