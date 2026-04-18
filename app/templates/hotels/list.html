@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="card"><a class="btn" href="{{ url_for('hotels.create_hotel') }}">Додати готель</a></div>
+<table>
+    <tr><th>Назва</th><th>Мережа</th><th>Місто</th><th>Зірки</th><th>Сер. оцінка</th><th>Дії</th></tr>
+    {% for hotel in hotels %}
+    <tr>
+        <td>{{ hotel.name }}</td>
+        <td>{{ hotel.chain.name }}</td>
+        <td>{{ hotel.city }}, {{ hotel.country }}</td>
+        <td>{{ hotel.stars }}</td>
+        <td>{{ hotel_service.average_rating(hotel) }}</td>
+        <td>
+            <a class="btn btn-secondary" href="{{ url_for('hotels.edit_hotel', hotel_id=hotel.id) }}">Редагувати</a>
+            <form class="inline" method="post" action="{{ url_for('hotels.delete_hotel', hotel_id=hotel.id) }}">
+                <button class="btn btn-danger" type="submit">Видалити</button>
+            </form>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}

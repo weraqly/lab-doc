@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="card">
+    <h2>{{ 'Редагувати номер' if room else 'Додати номер' }}</h2>
+    <form method="post">
+        <label>Готель</label>
+        <select name="hotel_id">
+            {% for hotel in hotels %}
+            <option value="{{ hotel.id }}" {% if room and room.hotel_id == hotel.id %}selected{% endif %}>{{ hotel.name }}</option>
+            {% endfor %}
+        </select>
+        <label>Номер кімнати</label><input name="room_number" value="{{ room.room_number if room else '' }}" required>
+        <label>Тип</label><input name="room_type" value="{{ room.room_type if room else '' }}" required>
+        <label>Місткість</label><input type="number" name="capacity" value="{{ room.capacity if room else 2 }}" required>
+        <label>Ціна за ніч</label><input type="number" step="0.01" name="price_per_night" value="{{ room.price_per_night if room else 100 }}" required>
+        <label><input type="checkbox" name="is_available" {% if not room or room.is_available %}checked{% endif %}> Доступний</label>
+        <label><input type="checkbox" name="has_breakfast" {% if room and room.has_breakfast %}checked{% endif %}> Є сніданок</label>
+        <button class="btn" type="submit">Зберегти</button>
+    </form>
+</div>
+{% endblock %}

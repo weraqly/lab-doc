@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="card">
+    <h2>{{ 'Редагувати готель' if hotel else 'Додати готель' }}</h2>
+    <form method="post">
+        <label>Мережа</label>
+        <select name="chain_id">
+            {% for chain in chains %}
+            <option value="{{ chain.id }}" {% if hotel and hotel.chain_id == chain.id %}selected{% endif %}>{{ chain.name }}</option>
+            {% endfor %}
+        </select>
+        <label>Назва</label><input name="name" value="{{ hotel.name if hotel else '' }}" required>
+        <label>Місто</label><input name="city" value="{{ hotel.city if hotel else '' }}" required>
+        <label>Країна</label><input name="country" value="{{ hotel.country if hotel else '' }}" required>
+        <label>Адреса</label><input name="address" value="{{ hotel.address if hotel else '' }}" required>
+        <label>Зірки</label><input type="number" min="1" max="5" name="stars" value="{{ hotel.stars if hotel else 4 }}" required>
+        <label>Latitude</label><input name="latitude" value="{{ hotel.latitude if hotel and hotel.latitude is not none else '' }}">
+        <label>Longitude</label><input name="longitude" value="{{ hotel.longitude if hotel and hotel.longitude is not none else '' }}">
+        <label>Опис</label><textarea name="description">{{ hotel.description if hotel else '' }}</textarea>
+        <button class="btn" type="submit">Зберегти</button>
+    </form>
+</div>
+{% endblock %}
