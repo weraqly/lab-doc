@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="card">
+    <h2>{{ 'Редагувати відгук' if review else 'Додати відгук' }}</h2>
+    <form method="post">
+        <label>Готель</label>
+        <select name="hotel_id">
+            {% for hotel in hotels %}
+            <option value="{{ hotel.id }}" {% if review and review.hotel_id == hotel.id %}selected{% endif %}>{{ hotel.name }}</option>
+            {% endfor %}
+        </select>
+        <label>Клієнт</label>
+        <select name="customer_id">
+            {% for customer in customers %}
+            <option value="{{ customer.id }}" {% if review and review.customer_id == customer.id %}selected{% endif %}>{{ customer.full_name }}</option>
+            {% endfor %}
+        </select>
+        <label>Оцінка</label><input type="number" min="1" max="10" name="rating" value="{{ review.rating if review else 8 }}" required>
+        <label>Коментар</label><textarea name="comment" required>{{ review.comment if review else '' }}</textarea>
+        <button class="btn" type="submit">Зберегти</button>
+    </form>
+</div>
+{% endblock %}

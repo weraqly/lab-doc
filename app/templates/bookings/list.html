@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="card"><a class="btn" href="{{ url_for('bookings.create_booking') }}">Створити бронювання</a></div>
+<table>
+    <tr><th>Клієнт</th><th>Готель</th><th>Номер</th><th>Період</th><th>Сума</th><th>Статус</th><th>Блокування коштів</th><th>Дії</th></tr>
+    {% for booking in bookings %}
+    <tr>
+        <td>{{ booking.customer.full_name }}</td>
+        <td>{{ booking.room.hotel.name }}</td>
+        <td>{{ booking.room.room_number }} ({{ booking.room.room_type }})</td>
+        <td>{{ booking.check_in }} — {{ booking.check_out }}</td>
+        <td>{{ booking.total_price }}</td>
+        <td>{{ booking.booking_status }}</td>
+        <td>{{ booking.payment_hold_status }}</td>
+        <td>
+            {% if booking.booking_status != 'Cancelled' %}
+            <form class="inline" method="post" action="{{ url_for('bookings.cancel_booking', booking_id=booking.id) }}">
+                <button class="btn btn-warning" type="submit">Скасувати</button>
+            </form>
+            {% endif %}
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}

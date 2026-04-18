@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block title %}Мережі{% endblock %}
+{% block content %}
+<div class="card">
+    <a class="btn" href="{{ url_for('chains.create_chain') }}">Додати мережу</a>
+</div>
+<table>
+    <tr><th>ID</th><th>Назва</th><th>API</th><th>Статус інтеграції</th><th>Країна</th><th>Дії</th></tr>
+    {% for chain in chains %}
+    <tr>
+        <td>{{ chain.id }}</td><td>{{ chain.name }}</td><td>{{ chain.api_provider }}</td><td>{{ chain.integration_status }}</td><td>{{ chain.country }}</td>
+        <td>
+            <a class="btn btn-secondary" href="{{ url_for('chains.edit_chain', chain_id=chain.id) }}">Редагувати</a>
+            <form class="inline" method="post" action="{{ url_for('chains.delete_chain', chain_id=chain.id) }}">
+                <button class="btn btn-danger" type="submit">Видалити</button>
+            </form>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}

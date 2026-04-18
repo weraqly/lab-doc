@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="card"><a class="btn" href="{{ url_for('reviews.create_review') }}">Додати відгук</a></div>
+<table>
+    <tr><th>Готель</th><th>Клієнт</th><th>Оцінка</th><th>Коментар</th><th>Дата</th><th>Дії</th></tr>
+    {% for review in reviews %}
+    <tr>
+        <td>{{ review.hotel.name }}</td>
+        <td>{{ review.customer.full_name }}</td>
+        <td>{{ review.rating }}</td>
+        <td>{{ review.comment }}</td>
+        <td>{{ review.created_at.strftime('%Y-%m-%d') }}</td>
+        <td>
+            <a class="btn btn-secondary" href="{{ url_for('reviews.edit_review', review_id=review.id) }}">Редагувати</a>
+            <form class="inline" method="post" action="{{ url_for('reviews.delete_review', review_id=review.id) }}">
+                <button class="btn btn-danger" type="submit">Видалити</button>
+            </form>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}

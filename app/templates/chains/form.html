@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="card">
+    <h2>{{ 'Редагувати мережу' if chain else 'Додати мережу готелів' }}</h2>
+    <form method="post">
+        <label>Назва</label>
+        <input name="name" value="{{ chain.name if chain else '' }}" required>
+        <label>API provider</label>
+        <input name="api_provider" value="{{ chain.api_provider if chain else '' }}" required>
+        <label>Статус інтеграції</label>
+        <select name="integration_status">
+            {% set status = chain.integration_status if chain else 'Pending' %}
+            {% for item in ['Pending', 'Sandbox', 'Connected', 'Failed'] %}
+            <option value="{{ item }}" {% if status == item %}selected{% endif %}>{{ item }}</option>
+            {% endfor %}
+        </select>
+        <label>Країна</label>
+        <input name="country" value="{{ chain.country if chain else '' }}" required>
+        <button class="btn" type="submit">Зберегти</button>
+    </form>
+</div>
+{% endblock %}

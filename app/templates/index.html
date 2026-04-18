@@ -1,0 +1,62 @@
+{% extends 'base.html' %}
+{% block title %}Головна{% endblock %}
+{% block content %}
+<div class="grid">
+    <div class="stat"><strong>Мережі готелів:</strong><br>{{ stats.chains_count }}</div>
+    <div class="stat"><strong>Готелі:</strong><br>{{ stats.hotels_count }}</div>
+    <div class="stat"><strong>Номери:</strong><br>{{ stats.rooms_count }}</div>
+    <div class="stat"><strong>Доступні номери:</strong><br>{{ stats.available_rooms_count }}</div>
+    <div class="stat"><strong>Відгуки:</strong><br>{{ stats.reviews_count }}</div>
+</div>
+
+<div class="card">
+    <h2>Опис предметної області</h2>
+    <p>Основна сутність цього варіанту — <strong>готельний номер</strong>, який пов’язаний із готелем, мережею готелів, бронюванням, клієнтом та відгуками. Додаток демонструє CRUD-операції, сервісний рівень бізнес-логіки і процес створення бронювання з попереднім розрахунком вартості та блокуванням коштів.</p>
+</div>
+
+<div class="card">
+    <h2>Останні готелі</h2>
+    <table>
+        <tr><th>Назва</th><th>Місто</th><th>Країна</th><th>Рейтинг</th></tr>
+        {% for hotel in recent_hotels %}
+        <tr>
+            <td>{{ hotel.name }}</td>
+            <td>{{ hotel.city }}</td>
+            <td>{{ hotel.country }}</td>
+            <td>{{ hotel_service.average_rating(hotel) }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+
+<div class="card">
+    <h2>Доступні номери</h2>
+    <table>
+        <tr><th>Готель</th><th>Номер</th><th>Тип</th><th>Ціна/ніч</th></tr>
+        {% for room in available_rooms %}
+        <tr>
+            <td>{{ room.hotel.name }}</td>
+            <td>{{ room.room_number }}</td>
+            <td>{{ room.room_type }}</td>
+            <td>{{ room.price_per_night }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+
+<div class="card">
+    <h2>Останні бронювання</h2>
+    <table>
+        <tr><th>Клієнт</th><th>Готель</th><th>Номер</th><th>Статус</th><th>Оплата</th></tr>
+        {% for booking in recent_bookings %}
+        <tr>
+            <td>{{ booking.customer.full_name }}</td>
+            <td>{{ booking.room.hotel.name }}</td>
+            <td>{{ booking.room.room_number }}</td>
+            <td>{{ booking.booking_status }}</td>
+            <td>{{ booking.payment_hold_status }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+{% endblock %}
