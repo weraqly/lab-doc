@@ -1,0 +1,22 @@
+# Lab 4 — Booking.com Strategy Pattern
+
+## Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+## Virtual environment
+venv/
+.venv/
+
+## IDE
+.idea/
+.vscode/
+*.swp
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Environment
+.env

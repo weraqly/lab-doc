@@ -1,0 +1,51 @@
+hotel_id,hotel_name,hotel_chain,city,rating,room_type,price_per_night_usd,free_rooms,reviews_count,availability_status,has_free_cancellation
+BKG-2000,Palace Court,Kempinski Hotels,Одеса,9.2,Стандарт,56.36,6,1994,Доступний,Так
+BKG-2001,Mountain Resort & Spa,Hyatt Hotels,Амстердам,9.8,Економ,52.91,13,4630,Доступний,Ні
+BKG-2002,Riverside Inn,Wyndham Hotels,Лондон,6.0,Економ,83.74,2,293,Останній номер,Так
+BKG-2003,Riverside House,Radisson Hotel Group,Київ,6.4,Стандарт,47.56,3,4679,Доступний,Так
+BKG-2004,Riverside Suites,Wyndham Hotels,Будапешт,5.9,Стандарт,43.32,6,316,Доступний,Так
+BKG-2005,Park Residence,Accor Group,Рим,8.3,Економ,49.14,12,249,Очікування,Ні
+BKG-2006,Mountain Lodge,Best Western,Одеса,9.1,Економ,29.29,2,4819,Останній номер,Ні
+BKG-2007,Palace House,IHG Hotels,Варшава,6.0,Стандарт,86.97,5,4091,Доступний,Ні
+BKG-2008,Palace House,Hilton Hotels,Барселона,6.1,Люкс,645.62,4,4932,Доступний,Так
+BKG-2009,Riverside Lodge,Radisson Hotel Group,Берлін,6.5,Сімейний,197.07,13,627,Доступний,Ні
+BKG-2010,Harbour House,Accor Group,Одеса,8.5,Напівлюкс,115.46,12,3124,Очікування,Так
+BKG-2011,Central Residence,IHG Hotels,Прага,5.5,Стандарт,81.5,15,427,Очікування,Так
+BKG-2012,Central Court,Radisson Hotel Group,Прага,9.3,Сімейний,169.26,3,3637,Очікування,Ні
+BKG-2013,City House,Accor Group,Париж,9.9,Стандарт,180.02,5,2724,Доступний,Ні
+BKG-2014,Park Tower,Marriott International,Стамбул,6.9,Напівлюкс,153.24,1,4462,Останній номер,Ні
+BKG-2015,Park Resort & Spa,IHG Hotels,Лісабон,8.9,Економ,53.39,10,1621,Очікування,Так
+BKG-2016,City Tower,Hyatt Hotels,Рим,5.1,Люкс,593.94,7,2682,Доступний,Так
+BKG-2017,Harbour Court,IHG Hotels,Київ,10.0,Люкс,318.9,12,3860,Очікування,Так
+BKG-2018,Riverside Lodge,Marriott International,Будапешт,5.7,Напівлюкс,129.53,0,4491,Зайнятий,Так
+BKG-2019,Harbour Court,Accor Group,Київ,7.8,Сімейний,138.37,2,1917,Останній номер,Ні
+BKG-2020,Royal Suites,Best Western,Прага,5.7,Сімейний,136.31,9,353,Доступний,Ні
+BKG-2021,Palace Inn,Radisson Hotel Group,Барселона,9.0,Сімейний,178.37,14,3190,Доступний,Так
+BKG-2022,Palace Plaza,Accor Group,Будапешт,6.2,Стандарт,65.75,12,4276,Доступний,Ні
+BKG-2023,Park House,Wyndham Hotels,Берлін,6.4,Напівлюкс,265.96,12,3879,Доступний,Так
+BKG-2024,Harbour Plaza,Kempinski Hotels,Відень,7.8,Економ,37.76,13,4271,Доступний,Ні
+BKG-2025,Central Plaza,Marriott International,Барселона,8.0,Стандарт,118.53,8,142,Доступний,Так
+BKG-2026,Grand House,Kempinski Hotels,Стамбул,9.7,Сімейний,94.88,7,808,Доступний,Так
+BKG-2027,Riverside Boutique Hotel,Kempinski Hotels,Київ,5.7,Напівлюкс,108.33,14,3519,Доступний,Ні
+BKG-2028,Grand Lodge,Kempinski Hotels,Париж,6.0,Стандарт,165.13,13,3779,Доступний,Так
+BKG-2029,Sunset Lodge,Best Western,Берлін,6.5,Напівлюкс,264.57,12,3154,Очікування,Ні
+BKG-2030,Harbour Court,Wyndham Hotels,Амстердам,5.7,Економ,84.03,9,1130,Очікування,Так
+BKG-2031,Grand Tower,Accor Group,Варшава,6.5,Напівлюкс,188.77,8,3687,Очікування,Так
+BKG-2032,Sunset Suites,Best Western,Стамбул,6.8,Стандарт,81.95,7,1713,Доступний,Ні
+BKG-2033,Riverside Resort & Spa,Four Seasons,Рим,7.7,Стандарт,89.49,8,595,Очікування,Ні
+BKG-2034,City Residence,Radisson Hotel Group,Київ,9.9,Стандарт,82.16,4,3509,Очікування,Так
+BKG-2035,City Residence,Hilton Hotels,Львів,9.6,Сімейний,112.18,12,1871,Доступний,Ні
+BKG-2036,Palace Tower,Kempinski Hotels,Рим,6.7,Напівлюкс,218.06,9,630,Очікування,Ні
+BKG-2037,City Court,Kempinski Hotels,Львів,5.0,Стандарт,63.67,12,1962,Доступний,Ні
+BKG-2038,Palace Lodge,Four Seasons,Прага,5.7,Люкс,258.29,2,4868,Останній номер,Так
+BKG-2039,Palace House,Radisson Hotel Group,Лондон,7.1,Люкс,1017.92,15,2965,Очікування,Так
+BKG-2040,Park House,Wyndham Hotels,Барселона,7.9,Стандарт,66.22,14,3140,Доступний,Ні
+BKG-2041,Grand Plaza,Wyndham Hotels,Барселона,9.3,Стандарт,148.54,6,36,Доступний,Ні
+BKG-2042,Mountain Lodge,Accor Group,Стамбул,9.7,Сімейний,72.66,4,3705,Доступний,Так
+BKG-2043,Palace Resort & Spa,Four Seasons,Варшава,5.5,Сімейний,147.81,6,629,Очікування,Так
+BKG-2044,Grand House,Wyndham Hotels,Прага,5.2,Люкс,426.56,2,2231,Останній номер,Так
+BKG-2045,Mountain Resort & Spa,Hilton Hotels,Львів,8.1,Напівлюкс,125.27,12,4950,Очікування,Так
+BKG-2046,Riverside Plaza,Best Western,Амстердам,6.1,Сімейний,263.31,1,1532,Останній номер,Так
+BKG-2047,Mountain Inn,Hyatt Hotels,Київ,9.0,Сімейний,60.14,5,4447,Очікування,Так
+BKG-2048,Harbour Suites,Four Seasons,Варшава,5.3,Сімейний,156.16,13,1947,Доступний,Ні
+BKG-2049,Palace Court,Hyatt Hotels,Барселона,7.4,Напівлюкс,242.24,4,4411,Доступний,Ні
